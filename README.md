@@ -1,6 +1,18 @@
 # SmoothStep2D Framework sample applications
 
-Sample applications of [SmoothStep2D Framework](http://ss2d.wordpress.com).
+Sample games of [SmoothStep2D Framework](http://ss2d.wordpress.com).
+
+## Samples
+
+- [sample01](./01_ss2d_shooting/README.md)
+
+
+## Screen
+
+### sample 01
+
+![sample01](./01_ss2d_shooting/public/images/ss2d_01.png)
+
 
 ## License
 
