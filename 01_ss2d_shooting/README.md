@@ -1,8 +1,12 @@
 # SmoothStep2D Framework sample 01
 
-A sample game of [SmoothStep2D Framework](http://ss2d.wordpress.com).
+A sample shooting game of [SmoothStep2D Framework](http://ss2d.wordpress.com).
 
-## Operation
+## Screenshot
+
+![sample 01](./public/images/ss2d_01.png)
+
+## How to play
 
 - Move : W,A,S,D
 - Shoot : SPACE
